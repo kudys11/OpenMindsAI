@@ -54,7 +54,7 @@ This will create your model.
 **(Manual)** Copy the **OpenMindsAI** folder to your Home Assistant's custom_components directory. If you don't have a **custom_components** directory, create one in the same directory as your **configuration.yaml** file.
 
 **(HACS)** Add this repository to HACS. 
-https://github.com/kudys11/OpenMindsAI/tree/main
+https://github.com/kudys11/OpenMindsAI
 
 
 **2.** Restart Home Assistant.
